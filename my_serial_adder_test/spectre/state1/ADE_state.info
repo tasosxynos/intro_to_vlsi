@@ -1,0 +1,3 @@
+projectDir = '"~/simulation"
+designInfo = '("mydeg" "my_serial_adder_test" "schematic" "spectre")
+descriptionText = "None"
